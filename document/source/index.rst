@@ -8,11 +8,6 @@ MCA document
 
 .. toctree::
    :maxdepth: 2
-   :caption: 内容:
+   :caption: 电池加热测试:
 
-hello
-
-电池加热测试
-
-
-
+电池加热测试.md
