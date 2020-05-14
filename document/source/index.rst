@@ -12,4 +12,10 @@ MCA document
    
    电池加热测试
 
-   
+Indices and tables
+====================
+
+* ref:'genindex'
+* ref:'modnidex'
+* ref:'search'
+
