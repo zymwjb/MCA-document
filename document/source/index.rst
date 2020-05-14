@@ -12,7 +12,7 @@ MCA document
    
    电池加热测试
 
-..toctree::
+
    :maxdepth: 2
    :caption: hello:
 
