@@ -7,13 +7,6 @@ MCA document
 ===============================
 
 
-
-.. toctree::
-   :maxdepth: 2
-   :caption: hello:
-
-   hello.rst
-
 .. toctree::
    :maxdepth: 2
    :caption: 电池加热测试:
