@@ -13,7 +13,7 @@ MCA document
    电池加热测试.md
 
    :maxdepth: 2
-   :caption: hello
+   :caption: hello:
 
    hello.rst
 
