@@ -7,7 +7,13 @@ MCA document
 ===============================
 
 .. toctree::
-   :maxdepth: 1
+   :maxdepth: 2
    :caption: 电池加热测试:
    
    电池加热测试
+
+..toctree::
+   :maxdepth: 2
+   :caption: hello:
+
+   hello
