@@ -11,8 +11,4 @@ MCA document
    :caption: 电池加热测试:
    
 
-Indices and tables
-====================
 
-* ref:'电池加热测试'
- 
