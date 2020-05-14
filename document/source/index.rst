@@ -6,11 +6,7 @@
 MCA document
 ===============================
 
-.. toctree::
-   :maxdepth: 2
-   :caption: 电池加热测试:
 
-   电池加热测试.md
 
 .. toctree::
    :maxdepth: 2
@@ -18,3 +14,8 @@ MCA document
 
    hello.rst
 
+.. toctree::
+   :maxdepth: 2
+   :caption: 电池加热测试:
+
+   电池加热测试.md
