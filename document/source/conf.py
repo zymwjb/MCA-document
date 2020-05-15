@@ -30,7 +30,7 @@ author = 'admin'
 
 
 extensions = [
-    'recommonmark',
+
 
 ]
 from recommonmark.parser import CommonMarkParser
