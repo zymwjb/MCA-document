@@ -19,4 +19,4 @@ MCA document
    :maxdepth: 2
    :caption: test
 
-   test.md
+   test.rst
