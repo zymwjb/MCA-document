@@ -9,6 +9,8 @@ MCA document
 
 .. toctree::
    :maxdepth: 2
-   :caption: 电池加热测试
+   :caption: 调试记录
 
    电池加热测试.md
+
+   CAN调试测试.md
