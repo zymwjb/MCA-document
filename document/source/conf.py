@@ -34,7 +34,7 @@ source_parsers={
 source_suffix = ['.rst','.md']
 
 extensions = [
-    'sphinx_markdown_tables',
+    'sphinx-markdown-tables',
 ]
 
 # Add any paths that contain templates here, relative to this directory.
