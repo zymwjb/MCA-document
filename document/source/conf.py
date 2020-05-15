@@ -30,7 +30,7 @@ author = 'admin'
 
 
 extensions = [
-    'sphinx_markdown_tables',
+    
     'sphinxcontrib.mermaid',
 ]
 from recommonmark.parser import CommonMarkParser
