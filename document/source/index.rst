@@ -14,3 +14,9 @@ MCA document
    电池加热测试.md
 
    CAN调试测试.md
+   
+.. toctree::
+   :maxdepth: 2
+   :caption: test
+
+   test.md
