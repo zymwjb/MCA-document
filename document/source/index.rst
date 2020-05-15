@@ -15,6 +15,8 @@ MCA document
 
    CAN调试测试.md
    
+   test.rst
+
 .. toctree::
    :maxdepth: 2
    :caption: test
