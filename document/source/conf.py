@@ -27,6 +27,12 @@ author = 'admin'
 # Add any Sphinx extension module names here, as strings. They can be
 # extensions coming with Sphinx (named 'sphinx.ext.*') or your custom
 # ones.
+from recommonmark.parser import CommonMarkParser
+source_parsers={
+    '.md': 'recommonmark.parser.CommonMarkParser',
+}
+source_suffix = ['.rst','.md']
+
 extensions = [
     'sphinx_markdown_tables',
 ]
@@ -56,11 +62,7 @@ import sphinx_rtd_theme
 html_theme="sphinx_rtd_theme"
 html_theme_path=[sphinx_rtd_theme.get_html_theme_path()]
 
-from recommonmark.parser import CommonMarkParser
-source_parsers={
-    '.md': 'recommonmark.parser.CommonMarkParser',
-}
-source_suffix = ['.rst','.md']
+
 
 
 
