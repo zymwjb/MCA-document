@@ -30,8 +30,8 @@ author = 'admin'
 
 
 extensions = [
-    
-    'sphinx_markdown_tables',
+    'recommonmark',
+
 ]
 from recommonmark.parser import CommonMarkParser
 source_parsers={
