@@ -29,15 +29,16 @@ author = 'admin'
 # ones.
 
 
-
+extensions = [
+    'sphinx_markdown_tables',
+    'sphinxcontrib.mermaid',
+]
 from recommonmark.parser import CommonMarkParser
 source_parsers={
     '.md': CommonMarkParser,
 }
 
-extensions = [
-    'recommonmark'
-]
+
 source_suffix = ['.rst','.md']
 # Add any paths that contain templates here, relative to this directory.
 templates_path = ['_templates']
