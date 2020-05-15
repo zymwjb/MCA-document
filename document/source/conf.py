@@ -59,11 +59,10 @@ from recommonmark.parser import CommonMarkParser
 source_parsers={
     '.md':CommonMarkParser
 }
-# source_suffix = ['.rst','.md']
-source_suffix = {'.rst':'restructuredtext',
-                 '.txt':'markdown',
-                 '.md':'markdown',
-}
+source_suffix = ['.rst','.md']
+
+extensions = [
+    'sphinx_markdown_tables',
+]
 
 master_doc = 'index'
-# master_doc = 'contents'
