@@ -36,7 +36,7 @@ source_parsers={
 }
 
 extensions = [
-    'sphinx_markdown_tables',
+    'recommonmark'
 ]
 source_suffix = ['.rst','.md']
 # Add any paths that contain templates here, relative to this directory.
